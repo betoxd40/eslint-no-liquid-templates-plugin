@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-liquid-templates",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Handler for liquid templates",
   "keywords": [
     "eslint",
